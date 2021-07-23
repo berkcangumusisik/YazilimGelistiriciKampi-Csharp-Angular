@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\bin\Debug\net5.0\KampIntro.exe
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\bin\Debug\net5.0\KampIntro.deps.json
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\bin\Debug\net5.0\KampIntro.runtimeconfig.json
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\bin\Debug\net5.0\KampIntro.runtimeconfig.dev.json
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\bin\Debug\net5.0\KampIntro.dll
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\bin\Debug\net5.0\ref\KampIntro.dll
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\bin\Debug\net5.0\KampIntro.pdb
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.AssemblyInfo.cs
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.dll
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\obj\Debug\net5.0\ref\KampIntro.dll
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.pdb
+C:\Users\BERKCAN\Desktop\kodlar\Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)\2. Gün\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.genruntimeconfig.cache
