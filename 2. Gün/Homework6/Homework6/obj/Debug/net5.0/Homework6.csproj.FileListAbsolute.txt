@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\obj\Debug\net5.0\Homework6.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\obj\Debug\net5.0\Homework6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\obj\Debug\net5.0\Homework6.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\obj\Debug\net5.0\Homework6.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\obj\Debug\net5.0\Homework6.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\bin\Debug\net5.0\Homework6.exe
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\bin\Debug\net5.0\Homework6.deps.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\bin\Debug\net5.0\Homework6.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\bin\Debug\net5.0\Homework6.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\bin\Debug\net5.0\Homework6.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\bin\Debug\net5.0\ref\Homework6.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\bin\Debug\net5.0\Homework6.pdb
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\obj\Debug\net5.0\Homework6.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\obj\Debug\net5.0\ref\Homework6.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\obj\Debug\net5.0\Homework6.pdb
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\2. Gün\Homework6\Homework6\obj\Debug\net5.0\Homework6.genruntimeconfig.cache
