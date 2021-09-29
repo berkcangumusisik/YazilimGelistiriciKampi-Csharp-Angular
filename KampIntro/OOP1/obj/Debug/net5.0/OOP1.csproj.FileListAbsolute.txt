@@ -1,0 +1,15 @@
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\bin\Debug\net5.0\OOP1.exe
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\bin\Debug\net5.0\OOP1.deps.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\bin\Debug\net5.0\OOP1.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\bin\Debug\net5.0\OOP1.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\bin\Debug\net5.0\OOP1.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\bin\Debug\net5.0\ref\OOP1.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\bin\Debug\net5.0\OOP1.pdb
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\obj\Debug\net5.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\obj\Debug\net5.0\OOP1.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\obj\Debug\net5.0\OOP1.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\obj\Debug\net5.0\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\obj\Debug\net5.0\OOP1.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\obj\Debug\net5.0\ref\OOP1.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\obj\Debug\net5.0\OOP1.pdb
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\OOP1\obj\Debug\net5.0\OOP1.genruntimeconfig.cache
