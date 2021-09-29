@@ -1,0 +1,15 @@
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\bin\Debug\net5.0\Matematik.exe
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\bin\Debug\net5.0\Matematik.deps.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\bin\Debug\net5.0\Matematik.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\bin\Debug\net5.0\Matematik.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\bin\Debug\net5.0\Matematik.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\bin\Debug\net5.0\ref\Matematik.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\bin\Debug\net5.0\Matematik.pdb
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\obj\Debug\net5.0\Matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\obj\Debug\net5.0\Matematik.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\obj\Debug\net5.0\Matematik.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\obj\Debug\net5.0\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\obj\Debug\net5.0\Matematik.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\obj\Debug\net5.0\ref\Matematik.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\obj\Debug\net5.0\Matematik.pdb
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\Matematik\obj\Debug\net5.0\Matematik.genruntimeconfig.cache

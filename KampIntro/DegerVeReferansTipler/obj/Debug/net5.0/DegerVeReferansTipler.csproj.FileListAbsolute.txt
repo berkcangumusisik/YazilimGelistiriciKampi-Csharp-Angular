@@ -1,0 +1,15 @@
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\bin\Debug\net5.0\DegerVeReferansTipler.exe
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\bin\Debug\net5.0\DegerVeReferansTipler.deps.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\bin\Debug\net5.0\DegerVeReferansTipler.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\bin\Debug\net5.0\DegerVeReferansTipler.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\bin\Debug\net5.0\DegerVeReferansTipler.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\bin\Debug\net5.0\ref\DegerVeReferansTipler.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\bin\Debug\net5.0\DegerVeReferansTipler.pdb
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\obj\Debug\net5.0\ref\DegerVeReferansTipler.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.pdb
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\KampIntro\DegerVeReferansTipler\obj\Debug\net5.0\DegerVeReferansTipler.genruntimeconfig.cache
