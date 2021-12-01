@@ -1,0 +1,7 @@
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\5.Gün\GameDemo\GameDemo\obj\Debug\GameDemo.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\5.Gün\GameDemo\GameDemo\obj\Debug\GameDemo.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\5.Gün\GameDemo\GameDemo\bin\Debug\GameDemo.exe.config
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\5.Gün\GameDemo\GameDemo\bin\Debug\GameDemo.exe
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\5.Gün\GameDemo\GameDemo\bin\Debug\GameDemo.pdb
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\5.Gün\GameDemo\GameDemo\obj\Debug\GameDemo.exe
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\5.Gün\GameDemo\GameDemo\obj\Debug\GameDemo.pdb
