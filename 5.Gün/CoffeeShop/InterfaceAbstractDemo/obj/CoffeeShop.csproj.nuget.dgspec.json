@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\BERKCAN\\Documents\\GitHub\\YazilimGelistiriciKampi-Csharp-Angular\\5.Gün\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\BERKCAN\\Documents\\GitHub\\YazilimGelistiriciKampi-Csharp-Angular\\5.Gün\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BERKCAN\\Documents\\GitHub\\YazilimGelistiriciKampi-Csharp-Angular\\5.Gün\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
+        "projectName": "CoffeeShop",
+        "projectPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\YazilimGelistiriciKampi-Csharp-Angular\\5.Gün\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
+        "packagesPath": "C:\\Users\\BERKCAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\YazilimGelistiriciKampi-Csharp-Angular\\5.Gün\\CoffeeShop\\CoffeeShop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BERKCAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "Grpc.Net.ClientFactory": {
+              "target": "Package",
+              "version": "[2.32.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.32.0, )"
+            },
+            "Microsoft.ApplicationInsights.WorkerService": {
+              "target": "Package",
+              "version": "[2.15.0, )"
+            },
+            "Microsoft.Extensions.ApiDescription.Client": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NSwag.ApiDescription.Client": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[13.0.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

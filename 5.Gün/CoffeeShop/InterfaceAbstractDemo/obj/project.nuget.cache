@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZIiHYai8unwRxDO4PFU4xkIf41evr0AHEqLz909180OCxey8VP+ePMXqCXDZ49tfMM93a+Y+NbHuLxCQembBbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\YazilimGelistiriciKampi-Csharp-Angular\\5.Gün\\CoffeeShop\\InterfaceAbstractDemo\\InterfaceAbstractDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\grpc.aspnetcore.server\\2.32.0\\grpc.aspnetcore.server.2.32.0.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\grpc.core.api\\2.32.0\\grpc.core.api.2.32.0.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\grpc.net.common\\2.32.0\\grpc.net.common.2.32.0.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\grpc.tools\\2.32.0\\grpc.tools.2.32.0.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\system.net.http.winhttphandler\\4.4.0\\system.net.http.winhttphandler.4.4.0.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\system.private.servicemodel\\4.4.4\\system.private.servicemodel.4.4.4.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\system.reflection.dispatchproxy\\4.4.0\\system.reflection.dispatchproxy.4.4.0.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\system.servicemodel.duplex\\4.4.4\\system.servicemodel.duplex.4.4.4.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\system.servicemodel.http\\4.4.4\\system.servicemodel.http.4.4.4.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\system.servicemodel.nettcp\\4.4.4\\system.servicemodel.nettcp.4.4.4.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\system.servicemodel.primitives\\4.4.4\\system.servicemodel.primitives.4.4.4.nupkg.sha512",
+    "C:\\Users\\BERKCAN\\.nuget\\packages\\system.servicemodel.security\\4.4.4\\system.servicemodel.security.4.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
