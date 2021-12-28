@@ -1,0 +1,17 @@
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\bin\Debug\net5.0\Business.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\obj\Debug\net5.0\Business.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\BERKCAN\Documents\GitHub\YazilimGelistiriciKampi-Csharp-Angular\FinalProject\Business\obj\Debug\net5.0\Business.pdb
